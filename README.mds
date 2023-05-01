@@ -1,8 +1,6 @@
 # Form_Builder_For_Litestore
 Designed and developed a dynamic form builder like Google Forms for Litestore intern task.
 
-<iframe src='//gifs.com/embed/form-builder-gif-2-w06pQR' frameborder='0' scrolling='no' width='1280px' height='720px' style='-webkit-backface-visibility: hidden;-webkit-transform: scale(1);' ></iframe>
-
  Instruction for deployment:
  
     npm i 
